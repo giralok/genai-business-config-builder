@@ -1,0 +1,41 @@
+{
+  "products": [
+    {
+      "sku": "hidraliso-kit-simples",
+      "name": "1 Hidraliso",
+      "description": "Kit com 1 unidade do Hidraliso para realinhamento e alisamento dos fios.",
+      "type": "tratamento capilar de realinhamento e alisamento",
+      "price": "R$ 147,00 à vista",
+      "installments": "até 12x no cartão",
+      "highlights": [
+        "Indicado para quem quer testar o produto pela primeira vez.",
+        "Ajuda a deixar os fios mais lisos e alinhados.",
+        "Pensado para uso em casa seguindo o passo a passo."
+      ]
+    },
+    {
+      "sku": "hidraliso-kit-completo",
+      "name": "Hidraliso + Shampoo + Termo Spray",
+      "description": "Kit com Hidraliso, Shampoo preparatório e Termo Spray para potencializar o efeito de realinhamento e proteção dos fios.",
+      "type": "tratamento capilar completo",
+      "price": "R$ 197,00 à vista (exemplo baseado nas ofertas exibidas no site)",
+      "installments": "até 12x no cartão",
+      "highlights": [
+        "Shampoo ajuda a preparar os fios para o realinhamento.",
+        "Termo Spray auxilia na proteção térmica e no controle de frizz.",
+        "Kit pensado para prolongar o efeito liso e manter os fios mais alinhados."
+      ]
+    }
+  ],
+  "shipping": {
+    "free_shipping": true,
+    "notes": "Ofertas com frete grátis para todo o Brasil, conforme condições exibidas na página oficial."
+  },
+  "payment": {
+    "installments_max": 12,
+    "methods": [
+      "Cartão de crédito",
+      "Pix (conforme opções exibidas na plataforma de pagamento)"
+    ]
+  }
+}
